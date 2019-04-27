@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Itunes Search</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="text_release">Release: %s</string>
+    <string name="text_racks">Tracks:</string>
+    <string name="text_genre">Primary genre: %s%nCollection price: %.2f %s</string>
+    <string name="enter_album_name">Enter album name</string>
+    <string name="text_track">%s %nPrice: %.2f %s</string>
+    <string name="text_track_album_only">%s %n Album only</string>
+    <string name="error_no_connection">No connection</string>
+</resources>
